@@ -1,3 +1,5 @@
+> **Note:** This repository was migrated from my old GitHub account and may need adjustment (e.g. credentials, secrets, variables, CI/CD settings, hardcoded paths or endpoints) before it can be used.
+
 # aws-eks-remediation-case
 Experimental eks aws terraform things with some use cases
 
